@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RecycleView</string>
+    <string-array name="cat_names">
+        <item>Рыжик</item>
+        <item>Жорик</item>
+        <item>Робин</item>
+        <item>Киткат</item>
+        <item>Тролли</item>
+        <item>Мамба</item>
+        <item>Черный</item>
+        <item>Носач</item>
+        <item>Капир</item>
+        <item>Селя</item>
+        <item>Гоги</item>
+        <item>Димок</item>
+        <item>Клочек</item>
+        <item>Камок</item>
+        <item>Дружок</item>
+        <item>Совок</item>
+    </string-array>
+</resources>
